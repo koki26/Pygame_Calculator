@@ -18,11 +18,12 @@ Shape Creation: Draw rectangles, circles, ellipses, lines, polygons, and arcs
 - Code Generation: Automatically generate Pygame code for your drawing
 
 # Installation
-Ensure you have Python 3.x installed
-
-# Install Pygame:
-1.  in cmd write pip install pygame
+1. Ensure you have Python 3.x installed
 2. Download or clone this repository
+   
+# Install Pygame:
+- in cmd write pip install pygame
+
 
 # Usage
 Run the application:
@@ -57,9 +58,13 @@ The code will be saved as generated_drawing.py
 
 # File Structure
 pygame-drawing-calculator/
+
 ├── main.py          # Main application code
+
 ├── README.md        # This documentation
+
 └── generated_drawing.py  # Output file (created when generating code)
+
 # Customization
 You can modify the following constants in the code:
 - DEFAULT_WIDTH, DEFAULT_HEIGHT: Initial window size
